@@ -28,6 +28,7 @@
                     </execution>
                 </executions>
                 <configuration>
+                    <skip>false</skip>
                     <mainClass>com.example.module2.Main</mainClass>
                 </configuration>
             </plugin>
